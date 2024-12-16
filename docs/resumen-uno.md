@@ -2,7 +2,7 @@
 
 Este dominio se centra en identificar las características de las cargas de trabajo comunes de IA y comprender los principios que guían el uso responsable de la inteligencia artificial.
 
-## 1.1 Identificación de las características de las cargas de trabajo de inteligencia artificial comunes
+### 1.1 Identificación de las características de las cargas de trabajo de inteligencia artificial comunes
 
 - **Moderación de contenido y personalización**: La moderación de contenido implica el uso de IA para revisar y filtrar contenido inapropiado en plataformas en línea. La personalización utiliza IA para adaptar experiencias de usuario basadas en preferencias individuales.
 
@@ -34,43 +34,43 @@ Este dominio se centra en identificar las características de las cargas de trab
 
   -   **Analogía**: Es como tener un asistente que puede leer y resumir documentos por ti.
 
-IA generativa: La IA generativa crea contenido nuevo, como imágenes, texto o música, basándose en patrones aprendidos.
+- **IA generativa**: La IA generativa crea contenido nuevo, como imágenes, texto o música, basándose en patrones aprendidos.
 
-Ejemplo: Modelos que generan arte digital o escriben artículos.
+  -   **Ejemplo**: Modelos que generan arte digital o escriben artículos.
 
-Analogía: Es como un artista que crea nuevas obras inspiradas en estilos existentes.
+  -   **Analogía**: Es como un artista que crea nuevas obras inspiradas en estilos existentes.
 
-1.2 Identificación de los principios que guían el uso responsable de la inteligencia artificial
+### 1.2 Identificación de los principios que guían el uso responsable de la inteligencia artificial
 
-Equidad: Asegurar que los sistemas de IA no tengan sesgos y traten a todos por igual.
+- **Equidad**: Asegurar que los sistemas de IA no tengan sesgos y traten a todos por igual.
 
-Ejemplo: Un sistema de contratación que evalúa a todos los candidatos de manera justa, sin prejuicios.
+  -   **Ejemplo**: Un sistema de contratación que evalúa a todos los candidatos de manera justa, sin prejuicios.
 
-Analogía: Es como un juez imparcial que toma decisiones basadas solo en los hechos.
+  -   **Analogía**: Es como un juez imparcial que toma decisiones basadas solo en los hechos.
 
-Confiabilidad y seguridad: Garantizar que los sistemas de IA funcionen correctamente y sean seguros contra ataques.
+- **Confiabilidad y seguridad**: Garantizar que los sistemas de IA funcionen correctamente y sean seguros contra ataques.
 
-Ejemplo: Un coche autónomo que navega de manera segura en diversas condiciones.
+  - **Ejemplo**: Un coche autónomo que navega de manera segura en diversas condiciones.
 
-Analogía: Es como un conductor experimentado que puede manejar cualquier situación en la carretera.
+  - **Analogía**: Es como un conductor experimentado que puede manejar cualquier situación en la carretera.
 
-Privacidad y seguridad: Proteger los datos personales y garantizar que se manejen de manera segura.
+- **Privacidad y seguridad**: Proteger los datos personales y garantizar que se manejen de manera segura.
 
-Ejemplo: Aplicaciones que cifran datos sensibles para proteger la información del usuario.
+  -   **Ejemplo**: Aplicaciones que cifran datos sensibles para proteger la información del usuario.
 
-Analogía: Es como guardar tus objetos de valor en una caja fuerte.
+  -   **Analogía**: Es como guardar tus objetos de valor en una caja fuerte.
 
-Inclusión: Diseñar sistemas de IA que sean accesibles y útiles para todos, independientemente de sus habilidades o antecedentes.
+- **Inclusión**: Diseñar sistemas de IA que sean accesibles y útiles para todos, independientemente de sus habilidades o antecedentes.
 
-Ejemplo: Interfaces de usuario que son accesibles para personas con discapacidades.
+  -   **Ejemplo**: Interfaces de usuario que son accesibles para personas con discapacidades.
 
-Analogía: Es como construir una rampa junto a las escaleras para que todos puedan entrar.
+  -   **Analogía**: Es como construir una rampa junto a las escaleras para que todos puedan entrar.
 
-Transparencia: Ser claro sobre cómo funcionan los sistemas de IA y cómo se toman las decisiones.
+-   **Transparencia**: Ser claro sobre cómo funcionan los sistemas de IA y cómo se toman las decisiones.
 
-Ejemplo: Proporcionar explicaciones sobre por qué un sistema de IA tomó una determinada decisión.
+    -   **Ejemplo**: Proporcionar explicaciones sobre por qué un sistema de IA tomó una determinada decisión.
 
-Analogía: Es como un chef que comparte su receta para que todos sepan cómo se hizo el plato.
+    -   **Analogía**: Es como un chef que comparte su receta para que todos sepan cómo se hizo el plato.
 
 Responsabilidad: Asignar la responsabilidad de las acciones y decisiones tomadas por los sistemas de IA.
 
