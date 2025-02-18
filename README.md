@@ -11,21 +11,22 @@ Aquí tienes el acordeón no oficial de la certificación AI-900 Microsoft Certi
 - **[¿Cómo es hacer una certificación de Microsoft? Tips y consideraciones](/docs/tips.md)**
 
 - Aquí encuentras mis apuntes. No dibujo ni escribo bonito pero te pueden ayudar
-  - [-> DALE CLIC AQUÍ <-](/images/Whiteboard%2058.png)
+  - [-> DALE CLIC AQUÍ <-]()
 
 
 ---
-### 1. Descripción de las cargas de trabajo y consideraciones de inteligencia artificial (15-20%)
+### 1. Aspectos básicos de Microsoft Azure AI: Introducción a AI
 
 - [Resumen rapido](/docs/resumen-uno.md)
+- [Código mi primera inteligencia artificial](code\mi_primer_ia.ipynb)
 
 ---
-## 2.
+## 2. Aspectos básicos de Microsoft Azure AI: Computer Vision
 
   - [Resumen rapido](/docs/resumen-dos.md)
 
 ---
-## 3.
+## 3. Aspectos básicos de Microsoft Azure AI: Procesamiento de lenguaje natural
 
   - [Resumen rapido](/docs/resumen-tres.md)
 
@@ -41,9 +42,9 @@ Aquí tienes el acordeón no oficial de la certificación AI-900 Microsoft Certi
 >  Recuerda que los Kahoot! los puedes hacer las veces que quieras, cuando quieras y sin limite de tiempo. Esto es para que práctiques y te prepares.
 
   - [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
-  - [-> Kahoot 1 <-](https://kahoot.it/challenge/007853410?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1731461047638)
-  - [--> Kahoot 2 <--](https://kahoot.it/challenge/005733089?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1732151079403)
-  - [---> Kahoot 3 <---](https://kahoot.it/challenge/007496056?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1734387884753)
+  - [-> Kahoot 1 <-](https://kahoot.it/challenge/006176803?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1739835509999)
+  - [--> Kahoot 2 <--]()
+  - [---> Kahoot 3 <---]()
   
 
 - #### [Inicio en la ciencia de datos](/docs/inicio_ciencia_datos.md)
@@ -52,7 +53,26 @@ Aquí tienes el acordeón no oficial de la certificación AI-900 Microsoft Certi
 
 - #### [Fundamentos mátematicos de la IA](/docs/intro_mates.md)
 
-- #### Recursos adicionales
+#### Recursos adicionales
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+  - Curso interactivo que introduce conceptos básicos de machine learning, con videos, ejercicios prácticos y lecciones sobre algoritmos fundamentales.
+- [Elements of AI](https://www.elementsofai.com/)
+  - Curso introductorio en línea que explica la inteligencia artificial de forma sencilla y práctica, ideal para construir una base conceptual.
+- [Fast.ai – Practical Deep Learning for Coders](https://www.fast.ai/)
+  - Conjunto de cursos muy prácticos sobre deep learning que te ayudarán a entender y aplicar técnicas avanzadas.
+- [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/)
+  - Curso intensivo del MIT con videos y material descargable que abordan tanto la teoría como la práctica del deep learning.
+- [Khan Academy – Matemáticas]( https://www.khanacademy.org/math)
+  - Amplia variedad de cursos gratuitos en matemáticas (álgebra, cálculo, estadística y probabilidad) fundamentales para la inteligencia artificial.
+- [StatQuest with Josh Starmer (YouTube)]( https://www.youtube.com/user/joshstarmer)
+  - Canal ideal para aprender estadísticas, machine learning y conceptos de IA de forma clara y amena.
+- [3Blue1Brown (YouTube)]( https://www.youtube.com/c/3blue1brown)
+  - Canal de YouTube que ofrece series visuales y explicativas sobre temas matemáticos, incluyendo el álgebra lineal y redes neuronales.
+- [Coursera: AI For Everyone (Auditable de forma gratuita)](https://www.coursera.org/learn/ai-for-everyone)
+  - Curso impartido por Andrew Ng que introduce de forma amena y accesible la IA, orientado a todos los públicos.
+- [Udacity – Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+  - Curso introductorio gratuito en Udacity que aborda los conceptos básicos y algoritmos fundamentales de la IA.
+
 
 ## ¿Qué sigue?
 
