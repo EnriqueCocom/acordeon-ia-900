@@ -18,7 +18,7 @@ Aquí tienes el acordeón no oficial de la certificación AI-900 Microsoft Certi
 ### 1. Aspectos básicos de Microsoft Azure AI: Introducción a AI
 
 - [Resumen rapido](/docs/resumen-uno.md)
-- [Código mi primera inteligencia artificial](code\mi_primer_ia.ipynb)
+- [Código mi primera inteligencia artificial](code/mi_primer_ia.ipynb)
 
 ---
 ## 2. Aspectos básicos de Microsoft Azure AI: Computer Vision
