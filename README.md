@@ -120,7 +120,7 @@ La visión informática es un área de la inteligencia artificial (IA) en la que
 
 #### [Ligera introducción a Deep Learning (Redes neuronales)](/docs/intro_deep_learning.md)
 
-#### [Fundamentos mátematicos de la IA](/docs/intro_mates.md)
+#### [Fundamentos mátematicos de la IA](/docs/intro_mates.pdf)
 
 #### [Introducción a Python](/docs/intro_python.md)
 
