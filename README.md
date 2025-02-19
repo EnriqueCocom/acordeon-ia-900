@@ -90,18 +90,105 @@ La visión informática es un área de la inteligencia artificial (IA) en la que
 ---
 ## 3. Aspectos básicos de Microsoft Azure AI: Procesamiento de lenguaje natural
 
-  - [Resumen rapido](/docs/unidad3/resumen-tres.md)
+El procesamiento de lenguaje natural es compatible con aplicaciones que pueden ver y oír a los usuarios, así como hablar con ellos y entenderlos.
+
+- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/explore-natural-language-processing/)**
+- [Resumen rapido](/docs/unidad3/resumen-tres.md)
+
+### Prácticas de Microsoft Learn
+> [!NOTE]
+> Las prácticas De Microsoft Learn están en inglés. Puedes traducirlas con el navegador y si no funciona algo intenta hacerlo en una ventana de incognito y/o cambiar de región
+
+- [Ejercicio: Análisis de texto con Language Studio](https://learn.microsoft.com/es-mx/training/modules/analyze-text-with-text-analytics-service/4-exercise)
+- [Ejercicio: uso de la respuesta a preguntas con Language Studio](https://learn.microsoft.com/es-mx/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/4-exercise)
+- [Ejercicio: Uso del reconocimiento del lenguaje conversacional con Language Studio](https://learn.microsoft.com/es-mx/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application)
+- [Ejercicio: Exploración de voz en el portal de Azure AI Foundry](https://learn.microsoft.com/es-mx/training/modules/recognize-synthesize-speech/4-exercise-transcribe-speech-use-azure)
+- [Ejercicio: Explorar el Traductor de Azure AI](https://learn.microsoft.com/es-mx/training/modules/translate-text-with-translation-service/3-exercise-translate-text-use-azure)
+
+### Prácticas complementarias
+> [!NOTE]
+> Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Temas complementarios
+
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 ## 4. Aspectos básicos de Microsoft Azure AI: Minería de conocimiento e inteligencia de documentos
 
-  - [Resumen rapido](/docs/unidad4/resumen-cuatro.md)
+La inteligencia de documentos, parte de estos servicios, automatiza la extracción de texto, pares clave-valor, tablas y estructuras de documentos, tanto digitales como escaneados, facilitando su análisis y uso en aplicaciones.
+
+- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/document-intelligence-knowledge-mining/)**
+- [Resumen rapido](/docs/unidad4/resumen-cuatro.md)
+
+### Prácticas de Microsoft Learn
+> [!NOTE]
+> Las prácticas De Microsoft Learn están en inglés. Puedes traducirlas con el navegador y si no funciona algo intenta hacerlo en una ventana de incognito y/o cambiar de región
+
+- [Ejercicio: Extracción de datos de documentos en el portal de Azure AI Foundry](https://learn.microsoft.com/es-mx/training/modules/analyze-receipts-form-recognizer/4-exercise)
+- [Ejercicio: exploración de un índice (UI) de Búsqueda de Azure AI](https://learn.microsoft.com/es-mx/training/modules/intro-to-azure-search/7-exercise)
+
+### Prácticas complementarias
+> [!NOTE]
+> Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Temas complementarios
+
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 
 ## 5. Aspectos básicos de Microsoft Azure AI: Inteligencia artificial generativa
 
- - [Resumen rapido](/docs/unidad5/resumen-cinco.md)
+La IA generativa es una forma de inteligencia artificial en la que se entrena a los modelos para generar nuevo contenido original basado en la entrada del lenguaje natural. En otras palabras, puede describir una salida deseada en el lenguaje normal cotidiano y el modelo puede responder creando el texto, la imagen, código y mucho más.
+- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/introduction-generative-ai/)**
+- [Resumen rapido](/docs/unidad5/resumen-cinco.md)
+
+### Prácticas de Microsoft Learn
+> [!NOTE]
+> Las prácticas De Microsoft Learn están en inglés. Puedes traducirlas con el navegador y si no funciona algo intenta hacerlo en una ventana de incognito y/o cambiar de región
+
+- [Ejercicio: Exploración de Microsoft Copilot](https://learn.microsoft.com/es-mx/training/modules/fundamentals-generative-ai/7-exercise)
+- [Ejercicio: explorar Inteligencia artificial de Azure Studio](https://learn.microsoft.com/es-mx/training/modules/introduction-to-azure-ai-studio/5-exercise-explore-ai-studio)
+- [Ejercicio: Exploración de filtros de contenido en Inteligencia artificial de Azure Studio](https://learn.microsoft.com/es-mx/training/modules/responsible-ai-studio/7-exercise-content-filters)
+
+### Prácticas complementarias
+> [!NOTE]
+> Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
+
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Temas complementarios
+
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 ## Examenes Prueba
@@ -109,10 +196,10 @@ La visión informática es un área de la inteligencia artificial (IA) en la que
 > [!IMPORTANT]
 >  Recuerda que los Kahoot! los puedes hacer las veces que quieras, cuando quieras y sin limite de tiempo. Esto es para que práctiques y te prepares.
 
-  - [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
-  - [-> Kahoot 1 <-](https://kahoot.it/challenge/006176803?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1739835509999)
-  - [--> Kahoot 2 <--]()
-  - [---> Kahoot 3 <---]()
+- [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
+- [-> Kahoot 1 <-](https://kahoot.it/challenge/006176803?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1739835509999)
+- [--> Kahoot 2 <--]()
+- [---> Kahoot 3 <---]()
 
 ## Recursos adicionales
 
