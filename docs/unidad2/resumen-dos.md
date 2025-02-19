@@ -1,6 +1,6 @@
 # 2. Aspectos básicos de Microsoft Azure AI: Computer Vision
 
-A continuación se presenta un resumen detallado y enfocado en los **Aspectos básicos de Microsoft Azure AI: Computer Vision** según el contenido de Microsoft Learn para la certificación AI‑900.
+La visión informática es un área de la inteligencia artificial (IA) en la que los sistemas de software se diseñan para percibir el mundo visualmente, mediante cámaras, imágenes y vídeo. 
 
 ## 1. Aspectos básicos de Computer Vision
 

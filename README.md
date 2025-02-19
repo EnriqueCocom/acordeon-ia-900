@@ -109,19 +109,19 @@ El procesamiento de lenguaje natural es compatible con aplicaciones que pueden v
 > [!NOTE]
 > Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Práctica 1: Análisis de Sentimiento con la API de Text Analytics](/docs/unidad3/practica1.md)
+- [Práctica 2: Extracción de Frases Clave y Reconocimiento de Entidades](/docs/unidad3/practica2.md)
+- [Práctica 3: Construcción de una Base de Conocimiento para Respuesta a Preguntas (QnA Maker)](/docs/unidad3/practica3.md)
+- [Práctica 4: Simulación de Reconocimiento del Lenguaje Conversacional con LUIS](/docs/unidad3/practica4.md)
+- [Práctica 5: Traducción de Textos con la API de Traducción de Azure](/docs/unidad3/practica5.md)
 
 ### Temas complementarios
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Tema Complementario 1: Preprocesamiento y Limpieza Avanzada de Datos Textuales](/docs/unidad3/tema2.md)
+- [Tema Complementario 2: Evaluación y Validación de Resultados en Servicios de NLP](/docs/unidad3/tema3.md)
+- [Tema Complementario 3: Integración de Servicios de NLP con Azure Cognitive Search y Otros Componentes](/docs/unidad3/tema3.md)
+- [Tema Complementario 4: Optimización del Rendimiento y Manejo de Errores en las APIs de NLP](/docs/unidad3/tema4.md)
+- [Tema Complementario 5: Seguridad, Privacidad y Cumplimiento en el Procesamiento de Datos Textuales](/docs/unidad3/tema5.md)
 
 ---
 ## 4. Aspectos básicos de Microsoft Azure AI: Minería de conocimiento e inteligencia de documentos
@@ -142,25 +142,26 @@ La inteligencia de documentos, parte de estos servicios, automatiza la extracci�
 > [!NOTE]
 > Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Práctica 1: Extracción Avanzada de Datos de Formularios con Azure Form Recognizer](/docs/unidad4/practica1.md)
+- [Práctica 2: Creación de un Pipeline de Indexación y Búsqueda con Azure Cognitive Search](/docs/unidad4/practica2.md)
+- [Práctica 3: Desarrollo de un Custom Skill para Enriquecer Documentos](/docs/unidad4/practica3.md)
+- [Práctica 4: Construcción de un Pipeline Automatizado con Azure Logic Apps](/docs/unidad4/practica4.md)
+- [Práctica 5: Evaluación y Análisis de la Precisión de la Minería de Conocimiento](/docs/unidad4/practica5.md)
 
 ### Temas complementarios
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Tema Complementario 1: Preprocesamiento y Normalización de Documentos](/docs/unidad4/tema1.md)
+- [Tema Complementario 2: Integración con Azure Cognitive Search para Indexación y Búsqueda Avanzada](/docs/unidad4/tema2.md)
+- [Tema Complementario 3: Desarrollo de Modelos Personalizados para Reconocimiento de Formularios](/docs/unidad4/tema3.md)
+- [Tema Complementario 4: Seguridad, Privacidad y Cumplimiento en la Minería de Documentos](/docs/unidad4/tema4.md)
+- [Tema Complementario 5: Monitorización y Optimización del Rendimiento en Sistemas de Minería de Conocimiento](/docs/unidad4/tema5.md)
 
 ---
 
 ## 5. Aspectos básicos de Microsoft Azure AI: Inteligencia artificial generativa
 
 La IA generativa es una forma de inteligencia artificial en la que se entrena a los modelos para generar nuevo contenido original basado en la entrada del lenguaje natural. En otras palabras, puede describir una salida deseada en el lenguaje normal cotidiano y el modelo puede responder creando el texto, la imagen, código y mucho más.
+
 - Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/introduction-generative-ai/)**
 - [Resumen rapido](/docs/unidad5/resumen-cinco.md)
 
@@ -176,19 +177,19 @@ La IA generativa es una forma de inteligencia artificial en la que se entrena a 
 > [!NOTE]
 > Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Práctica 1: Uso Avanzado de Azure OpenAI Service para Generación de Texto](/docs/unidad5/practica1.md)
+- [Práctica 2: Desarrollo de un Chatbot Generativo con Azure AI Studio y OpenAI](/docs/unidad5/practica2.md)
+- [Práctica 3: Implementación de Filtros de Seguridad para Salidas Generativas](/docs/unidad5/practica3.md)
+- [Práctica 4: Fine-tuning Simulado con Datos Personalizados (Ejercicio Conceptual)](/docs/unidad5/practica4.md)
+- [Práctica 5: Creación de un Pipeline End-to-End en Azure AI Studio para Generación de Contenido](/docs/unidad5/practica5.md)
 
 ### Temas complementarios
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Tema Complementario 1: Optimización y Diseño de Prompts para Modelos Generativos](/docs/unidad5/tema1.md)
+- [Tema Complementario 2: Evaluación de la Calidad y Métricas en Salidas Generativas](/docs/unidad5/tema2.md)
+- [Tema Complementario 3: Integración de Modelos Generativos en Aplicaciones Empresariales](/docs/unidad5/tema3.md)
+- [Tema Complementario 4: Aspectos Éticos y de Responsabilidad en la IA Generativa](/docs/unidad5/tema4.md)
+- [Tema Complementario 5: Experimentación y Ajuste de Parámetros en Modelos Generativos](/docs/unidad5/tema5.md)
 
 ---
 ## Examenes Prueba
