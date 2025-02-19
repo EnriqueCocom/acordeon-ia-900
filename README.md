@@ -24,7 +24,7 @@ Aquí tienes el acordeón no oficial de la certificación AI-900 Microsoft Certi
 
 Este módulo introduce de manera global la inteligencia artificial (IA) y sus aplicaciones transformadoras.
 
-- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ](https://learn.microsoft.com/es-mx/training/paths/get-started-with-artificial-intelligence-on-azure/)**
+- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/get-started-with-artificial-intelligence-on-azure/)**
 - [Resumen rapido](/docs/unidad1/resumen-uno.md)
 
 ### Prácticas de Microsoft Learn
@@ -56,7 +56,36 @@ Este módulo introduce de manera global la inteligencia artificial (IA) y sus ap
 ---
 ## 2. Aspectos básicos de Microsoft Azure AI: Computer Vision
 
-  - [Resumen rapido](/docs/unidad2/resumen-dos.md)
+La visión informática es un área de la inteligencia artificial (IA) en la que los sistemas de software se diseñan para percibir el mundo visualmente, mediante cámaras, imágenes y vídeo. 
+
+- Aquí puedes ver todos los temas de la unidad **[-> DA CLIC AQUÍ <-](https://learn.microsoft.com/es-mx/training/paths/explore-computer-vision-microsoft-azure/)**
+- [Resumen rapido](/docs/unidad2/resumen-dos.md)
+
+### Prácticas de Microsoft Learn
+> [!NOTE]
+> Las prácticas De Microsoft Learn están en inglés. Puedes traducirlas con el navegador y si no funciona algo intenta hacerlo en una ventana de incognito y/o cambiar de región
+
+- [Ejercicio: Análisis de imágenes en Vision Studio](https://learn.microsoft.com/es-mx/training/modules/analyze-images-computer-vision/4-exercise)
+- [Ejercicio: detección de caras en Vision Studio](https://learn.microsoft.com/es-mx/training/modules/detect-analyze-faces/4-exercise)
+- [Ejercicio: Lectura de texto en Vision Studio](https://learn.microsoft.com/es-mx/training/modules/read-text-computer-vision/4-read-text-computer-vision)
+
+### Prácticas complementarias
+> [!NOTE]
+> Las prácticas de este acordeón son complementarias a las que debes hacer en Microsoft Learn
+
+- [Práctica 1: Análisis de Imágenes con la API de Computer Vision usando Postman](/docs/unidad2/practica1.md)
+- [Práctica 2: Extracción de Texto de Imágenes mediante OCR con Python](/docs/unidad2/practica2.md)
+- [Práctica 3: Implementación de Reconocimiento Facial con Azure Face API en Python](/docs/unidad2/practica3.md)
+- [Práctica 4: Comparación de Rostros para Verificación de Identidad con Face API](/docs/unidad2/practica4.md)
+- [Práctica 5: Integración Completa: Aplicación de Escritorio Simple que Utilice Computer Vision, Face API y OCR](/docs/unidad2/practica5.md)
+
+### Temas complementarios
+
+- [Tema Complementario 1: Preprocesamiento de Imágenes para Mejorar el Rendimiento de Computer Vision](/docs/unidad2/tema1.md)
+- [Tema Complementario 2: Optimización del Consumo de la API y Manejo de Límite de Solicitudes](/docs/unidad2/tema2.md)
+- [Tema Complementario 3: Integración de Resultados de Computer Vision con Otras Soluciones de Azure](/docs/unidad2/tema3.md)
+- [Tema Complementario 4: Seguridad y Privacidad en el Uso de Servicios de Computer Vision](/docs/unidad2/tema4.md)
+- [Tema Complementario 5: Monitorización y Mantenimiento de Soluciones Basadas en Computer Vision](/docs/unidad2/tema5.md)
 
 ---
 ## 3. Aspectos básicos de Microsoft Azure AI: Procesamiento de lenguaje natural
@@ -87,13 +116,15 @@ Este módulo introduce de manera global la inteligencia artificial (IA) y sus ap
 
 ## Recursos adicionales
 
-### [Inicio en la ciencia de datos](/docs/inicio_ciencia_datos.md)
+#### [Inicio en la ciencia de datos](/docs/inicio_ciencia_datos.md)
 
-### [Ligera introducción a Deep Learning (Redes neuronales)](/docs/intro_deep_learning.md)
+#### [Ligera introducción a Deep Learning (Redes neuronales)](/docs/intro_deep_learning.md)
 
-### [Fundamentos mátematicos de la IA](/docs/intro_mates.md)
+#### [Fundamentos mátematicos de la IA](/docs/intro_mates.md)
 
-#### Recursos en linea para aprender más AI
+#### [Introducción a Python](/docs/intro_python.md)
+
+### Recursos en linea para aprender más AI
 
 - **[Machine Learning Mastery (Blog)](https://machinelearningmastery.com/)**
   - Blog de Jason Brownlee que ofrece tutoriales, guías prácticas y consejos para aprender machine learning desde cero.
