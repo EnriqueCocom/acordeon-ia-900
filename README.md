@@ -122,6 +122,12 @@ El procesamiento de lenguaje natural es compatible con aplicaciones que pueden v
 - [Tema Complementario 3: Integración de Servicios de NLP con Azure Cognitive Search y Otros Componentes](/docs/unidad3/tema3.md)
 - [Tema Complementario 4: Optimización del Rendimiento y Manejo de Errores en las APIs de NLP](/docs/unidad3/tema4.md)
 - [Tema Complementario 5: Seguridad, Privacidad y Cumplimiento en el Procesamiento de Datos Textuales](/docs/unidad3/tema5.md)
+- Speech to Text y Text to Speech:
+  - [Text-to-Speech 101: The Ultimate Guide](https://medium.com/neuralspace/text-to-speech-101-the-ultimate-guide-9a4b10e20fef)
+  - [Text-to-speech (NVIDIA)](https://www.nvidia.com/en-us/glossary/text-to-speech/)
+  - [Introduction to Speech-to-Text (Very Basic)](https://medium.com/@wardhana2451/introduction-to-speech-to-text-very-basic-a249f3cab024)
+  - [Audio Deep Learning Made Simple: Automatic Speech Recognition (ASR), How it Works](https://medium.com/towards-data-science/audio-deep-learning-made-simple-automatic-speech-recognition-asr-how-it-works-716cfce4c706)
+  - [Understanding the Mel Spectrogram](https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53)
 
 ---
 ## 4. Aspectos básicos de Microsoft Azure AI: Minería de conocimiento e inteligencia de documentos
@@ -199,7 +205,7 @@ La IA generativa es una forma de inteligencia artificial en la que se entrena a 
 
 - [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
 - [-> Kahoot 1 <-](https://kahoot.it/challenge/006176803?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1739835509999)
-- [--> Kahoot 2 <--]()
+- [--> Kahoot 2 <--](https://kahoot.it/challenge/001686049?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1740429269219)
 - [---> Kahoot 3 <---]()
 
 ## Recursos adicionales
