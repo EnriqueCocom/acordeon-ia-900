@@ -196,6 +196,12 @@ La IA generativa es una forma de inteligencia artificial en la que se entrena a 
 - [Tema Complementario 3: Integración de Modelos Generativos en Aplicaciones Empresariales](/docs/unidad5/tema3.md)
 - [Tema Complementario 4: Aspectos Éticos y de Responsabilidad en la IA Generativa](/docs/unidad5/tema4.md)
 - [Tema Complementario 5: Experimentación y Ajuste de Parámetros en Modelos Generativos](/docs/unidad5/tema5.md)
+- Inteligencia Artificial generativa y LLM:
+    - [¿Qué es la IA generativa? (IBM)](https://www.ibm.com/es-es/topics/generative-ai)
+    - [Generative AI Large Language Models: Basics, LLM Abilities, and Transformer Architecture Explained](https://medium.com/@padmathanumoorthy/large-language-models-understanding-basics-llm-abilities-and-transformer-architecture-model-7e01d064659e)
+    - [How Large Language Models work. From zero to ChatGPT](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)
+    - [DeepLearning.ai](https://www.deeplearning.ai/)
+    - [Generative AI for beginners — Part I: Fundamental](https://medium.com/@ngocuyen1207/generative-ai-for-beginners-part-i-fundamental-79947d831b4d)
 
 ---
 ## Examenes Prueba
