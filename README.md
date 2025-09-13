@@ -210,8 +210,8 @@ La IA generativa es una forma de inteligencia artificial en la que se entrena a 
 >  Recuerda que los Kahoot! los puedes hacer las veces que quieras, cuando quieras y sin limite de tiempo. Esto es para que práctiques y te prepares.
 
 - [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
-- [-> Kahoot 1 <-](https://kahoot.it/challenge/00242046?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1747449324374)
-- [--> Kahoot 2 <--](https://kahoot.it/challenge/006671217?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1748053595425)
+- [-> Kahoot 1 <-](https://kahoot.it/challenge/009442616?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1757728567638)
+- [--> Kahoot 2 <--]()
 - [---> Kahoot 3 <---]()
 
 ## Recursos adicionales
